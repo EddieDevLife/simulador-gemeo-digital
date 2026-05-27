@@ -3,19 +3,14 @@
 > A transformação do suporte técnico: saindo da análise reativa tradicional para a mitigação de fricção em tempo real através de Inteligência Artificial e Engenharia de Dados.
 
 **[✨ Clique aqui para acessar o Simulador Interativo Online](https://eddiedevlife.github.io/simulador-gemeo-digital/)**
-<p align="center">
-  <img src="img/banner_projeto_iris.png" alt="Banner Projeto VA Gêmeos Digitais">
-</p>
+
 
 ---
 
 ## 🚀 O Fascínio dos Gémeos Digitais (Digital Twins)
 
-Imagine um espelho dinâmico que não reflete apenas a imagem de um objeto, mas sim o seu comportamento, o seu ritmo e o seu estado interno a cada milissegundo. Isso é um **Gémeo Digital**. 
+Imagine um espelho dinâmico que não reflete apenas a imagem de um objeto, mas sim o seu comportamento, o seu ritmo e o seu estado interno a cada milissegundo. Isso é um **Gêmeo Digital**. 
 
-<p align="right">
-  <img src="img/conceito_micro_macro_twin.png" alt="Conceito Micro e Macro Gêmeo" width="400">
-</p>
 
 Popularizado na engenharia aeroespacial e em fábricas inteligentes de alta tecnologia para monitorizar motores e turbinas, o conceito de Gémeo Digital evoluiu. No **Projeto Iris**, desafiámos os limites tradicionais desta tecnologia: em vez de replicar uma máquina física, criámos uma **réplica virtual viva do comportamento, da satisfação e da fricção do utilizador real** durante a sua jornada de atendimento.
 
