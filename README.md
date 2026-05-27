@@ -16,7 +16,7 @@ Popularizado na engenharia aeroespacial e em fábricas inteligentes de alta tecn
 
 ### O Nosso Foco
 
-1. **O Micro-Gémeo (Camada Operacional / Tempo Real):** Cada sessão de conversação ativa possui o seu próprio gémeo virtual temporário. Se o gémeo detetar um desvio crítico na experiência, a IA intervém de imediato para salvar o atendimento.
+1. **O Micro-Gemeo (Camada Operacional / Tempo Real):** Cada sessão de conversação ativa possui o seu próprio gémeo virtual temporário. Se o gemeo detetar um desvio crítico na experiência, a IA intervém de imediato para salvar o atendimento.
 2. **O Macro-Gémeo (Camada Estratégica / Agrupamento):** Milhares de sessões individuais são consolidadas em grupos comportamentais (*Personas*), permitindo identificar falhas sistémicas de UX ou infraestrutura.
 
 ---
