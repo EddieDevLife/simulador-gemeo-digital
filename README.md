@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 O Fascínio dos Gémeos Digitais (Digital Twins)
+## 🚀 O Fascínio dos Gêmeos Digitais (Digital Twins)
 
 Imagine um espelho dinâmico que não reflete apenas a imagem de um objeto, mas sim o seu comportamento, o seu ritmo e o seu estado interno a cada milissegundo. Isso é um **Gêmeo Digital**. 
 
@@ -16,8 +16,8 @@ Popularizado na engenharia aeroespacial e em fábricas inteligentes de alta tecn
 
 ### O Nosso Foco
 
-1. **O Micro-Gemeo (Camada Operacional / Tempo Real):** Cada sessão de conversação ativa possui o seu próprio gémeo virtual temporário. Se o gemeo detetar um desvio crítico na experiência, a IA intervém de imediato para salvar o atendimento.
-2. **O Macro-Gémeo (Camada Estratégica / Agrupamento):** Milhares de sessões individuais são consolidadas em grupos comportamentais (*Personas*), permitindo identificar falhas sistémicas de UX ou infraestrutura.
+1. **O Micro-Gêmeo (Camada Operacional / Tempo Real):** Cada sessão de conversação ativa possui o seu próprio gémeo virtual temporário. Se o gemeo detetar um desvio crítico na experiência, a IA intervém de imediato para salvar o atendimento.
+2. **O Macro-Gêmeo (Camada Estratégica / Agrupamento):** Milhares de sessões individuais são consolidadas em grupos comportamentais (*Personas*), permitindo identificar falhas sistémicas de UX ou infraestrutura.
 
 ---
 
@@ -25,9 +25,7 @@ Popularizado na engenharia aeroespacial e em fábricas inteligentes de alta tecn
 
 O ecossistema foi desenhado seguindo o paradigma de arquitetura orientada a eventos (*Event-Driven Architecture*), garantindo escalabilidade e total desacoplamento entre os microsserviços.
 
-<p align="center">
-  <img src="img/arquitetura_cloud_iris.png" alt="Diagrama de Arquitetura Cloud Projeto Iris">
-</p>
+
 
 ### 🏗️ Descrição do Fluxo
 1. **Camada de Ingestão:** O chatbot (ServiceNow) dispara *Webhooks* a cada interação (`sys_cs_message`).
@@ -41,9 +39,7 @@ O ecossistema foi desenhado seguindo o paradigma de arquitetura orientada a even
 
 O algoritmo agrupou com precisão três estados operacionais distintos com base nos padrões matemáticos das mensagens. Esta visualização representa o "espaço de estado" monitorizado pelo Macro-Gêmeo:
 
-<p align="center">
-  <img src="img/clusters_kmeans_gmeo.png" alt="Visualização dos Clusters K-Means do Gêmeo Digital" width="600">
-</p>
+
 
 | Cluster | Volume de Mensagens | Erros de Compreensão | Latência Média | Status Operacional | Ação do Gmeo |
 | :--- | :--- | :--- | :--- | :--- | :--- |
